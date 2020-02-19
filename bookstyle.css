@@ -4,7 +4,7 @@
     /* background: rgb(11,210,194);
 background: linear-gradient(0deg, rgba(11,210,194,1) 0%, rgba(0,203,255,1) 100%); */
 /* background-image: url("images/photo-of-santorini-greece-1010657 (1).jpg");     */
-background-image: url("images/alberta-amazing-attraction-banff-417074.jpg");
+background-image: url("Images/alberta-amazing-attraction-banff-417074.jpg");
 background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -12,7 +12,7 @@ background-repeat: no-repeat;
 }
 
 #parentSCH{
-    background-image: url("images/golden-gate-bridge-san-francisco-2104742.jpg");    
+    background-image: url("Images/golden-gate-bridge-san-francisco-2104742.jpg");    
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -49,7 +49,7 @@ background-repeat: no-repeat;
     background-color:transparent;
     padding: 18px;
     opacity: 80%;
-    background-image: url("images/wifi.png");
+    background-image: url("Images/wifi.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -60,7 +60,7 @@ background-repeat: no-repeat;
     margin-left: 20px;
     padding: 18px;
     opacity: 80%;
-    background-image: url("images/tv.png");
+    background-image: url("Images/tv.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

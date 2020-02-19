@@ -183,7 +183,7 @@ body{
 
 #servicesBack{
     padding: 100px 0 100px 0;
-    background-image: url("images/colosseum-coliseum-flavian-amphitheatre-rome-10922.jpg");
+    background-image: url("Images/colosseum-coliseum-flavian-amphitheatre-rome-10922.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -238,7 +238,7 @@ body{
 
 .newsBackground{
     padding: 30px 0 30px 0;
-    background-image: url("images/woman-taking-pictures-of-ruins-2087391.jpg");
+    background-image: url("Images/woman-taking-pictures-of-ruins-2087391.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -252,22 +252,10 @@ body{
 }
 
 
-
-
-
-
-
-
 .services{
     padding: 125px 0 125px 0;
     background-color: rgb(196, 195, 195);  
 }
-
-
-
-
-
-
 
 
 
@@ -358,7 +346,7 @@ body{
 
 .bookImage{
     padding: 0px 0 0px 0;
-    background-image: url("images/greece.jpg");
+    background-image: url("Images/greece.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

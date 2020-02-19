@@ -14,7 +14,7 @@ body{
 
 #travelImage {
     padding: 310px 0 300px 0;
-    background-image: url("images/man-standing-on-top-of-mountain-2695232.jpg");
+    background-image: url("Images/man-standing-on-top-of-mountain-2695232.jpg");
     /* background-image: url("images/man-and-woman-sitting-on-hanging-chair-by-a-tree-1319829 (1).jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,7 +30,7 @@ body{
 
   #manLugggage{
     padding: 310px 0 300px 0;
-    background-image: url("images/man-and-woman-sitting-on-hanging-chair-by-a-tree-1319829 (1).jpg");
+    background-image: url("Images/man-and-woman-sitting-on-hanging-chair-by-a-tree-1319829 (1).jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: aliceblue;
