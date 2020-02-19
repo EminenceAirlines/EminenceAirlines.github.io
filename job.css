@@ -18,7 +18,7 @@ body{
 
 #jobsImage{
     padding: 310px 0 300px 0;
-    background-image: url("images/man-flying-a-helicopter-2868217.jpg");
+    background-image: url("Images/man-flying-a-helicopter-2868217.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -29,7 +29,7 @@ body{
 
 #testimonials{
     padding: 50px 0 90px 0;
-    background-image: url("images/indeximage3.jpg");
+    background-image: url("Images/indeximage3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -41,7 +41,7 @@ body{
 #FAQimage{
     padding-bottom: 50%;
     /* background-image: url("images/aeroplane-air-aircraft-airplane-240524.jpg"); */
-    background-image: url("images/airplane-engine-459402.jpg");
+    background-image: url("Images/airplane-engine-459402.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
