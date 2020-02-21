@@ -41,3 +41,13 @@ body{
     color: rgb(255, 255, 255);
     font-size: 20px;
 }
+
+#mapimg{
+    padding: 40vh 0 15vh 0;
+    background-image: url("Images/map.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    background-color: rgb(196, 195, 195);
+}   
