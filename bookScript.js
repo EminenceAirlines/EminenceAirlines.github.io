@@ -257,6 +257,12 @@ function passengerInfo(){
                 });
 
                 $(document).ready(function($) {
+                    $(document).on('submit', '#form4', function(event) {
+                        event.preventDefault();
+                    });
+                    });
+
+                $(document).ready(function($) {
                     $(document).on('submit', '#signUP', function(event) {
                         event.preventDefault();
                     });
